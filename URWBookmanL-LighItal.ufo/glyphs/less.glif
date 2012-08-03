@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="less" format="1">
+  <advance width="600"/>
+  <unicode hex="003C"/>
+  <outline>
+    <contour>
+      <point x="79" y="360" type="line"/>
+      <point x="79" y="288" type="line"/>
+      <point x="588" y="49" type="line"/>
+      <point x="588" y="135" type="line"/>
+      <point x="185" y="324" type="line"/>
+      <point x="588" y="512" type="line"/>
+      <point x="588" y="599" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="930"/>
+  <unicode hex="00BC"/>
+  <outline>
+    <contour>
+      <point x="310" y="681" type="line"/>
+      <point x="279" y="681" type="line"/>
+      <point x="235" y="669"/>
+      <point x="228" y="668"/>
+      <point x="160" y="658" type="curve"/>
+      <point x="155" y="631" type="line"/>
+      <point x="218" y="631"/>
+      <point x="226" y="628"/>
+      <point x="226" y="605" type="curve" smooth="yes"/>
+      <point x="226" y="602"/>
+      <point x="226" y="598"/>
+      <point x="225" y="593" type="curve" smooth="yes"/>
+      <point x="180" y="349" type="line"/>
+      <point x="175" y="310"/>
+      <point x="165" y="305"/>
+      <point x="96" y="300" type="curve"/>
+      <point x="91" y="273" type="line"/>
+      <point x="311" y="273" type="line"/>
+      <point x="316" y="300" type="line"/>
+      <point x="295" y="302" type="line" smooth="yes"/>
+      <point x="259" y="304"/>
+      <point x="247" y="311"/>
+      <point x="247" y="328" type="curve" smooth="yes"/>
+      <point x="247" y="332"/>
+      <point x="249" y="346"/>
+      <point x="250" y="352" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="765" y="681" type="line"/>
+      <point x="709" y="681" type="line"/>
+      <point x="214" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="870" y="408" type="line"/>
+      <point x="804" y="408" type="line"/>
+      <point x="549" y="137" type="line"/>
+      <point x="557" y="109" type="line"/>
+      <point x="747" y="109" type="line"/>
+      <point x="742" y="81" type="line"/>
+      <point x="738" y="48"/>
+      <point x="721" y="30"/>
+      <point x="693" y="29" type="curve"/>
+      <point x="673" y="27" type="line"/>
+      <point x="668" y="0" type="line"/>
+      <point x="859" y="0" type="line"/>
+      <point x="865" y="27" type="line"/>
+      <point x="839" y="29" type="line" smooth="yes"/>
+      <point x="822" y="30"/>
+      <point x="809" y="45"/>
+      <point x="809" y="64" type="curve" smooth="yes"/>
+      <point x="809" y="70"/>
+      <point x="809" y="71"/>
+      <point x="810" y="75" type="curve"/>
+      <point x="816" y="109" type="line"/>
+      <point x="894" y="109" type="line"/>
+      <point x="913" y="149" type="line"/>
+      <point x="824" y="149" type="line"/>
+    </contour>
+    <contour>
+      <point x="755" y="149" type="line"/>
+      <point x="610" y="149" type="line"/>
+      <point x="789" y="339" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

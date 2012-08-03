@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Adieresis" format="1">
+  <advance width="592"/>
+  <unicode hex="00C4"/>
+  <outline>
+    <contour>
+      <point x="187" y="148" type="line"/>
+      <point x="404" y="148" type="line"/>
+      <point x="442" y="0" type="line"/>
+      <point x="576" y="0" type="line"/>
+      <point x="368" y="718" type="line"/>
+      <point x="226" y="718" type="line"/>
+      <point x="16" y="0" type="line"/>
+      <point x="146" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="296" y="559" type="line"/>
+      <point x="370" y="271" type="line"/>
+      <point x="220" y="271" type="line"/>
+    </contour>
+    <contour>
+      <point x="268" y="915" type="line"/>
+      <point x="165" y="915" type="line"/>
+      <point x="165" y="800" type="line"/>
+      <point x="268" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="915" type="line"/>
+      <point x="325" y="915" type="line"/>
+      <point x="325" y="800" type="line"/>
+      <point x="428" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

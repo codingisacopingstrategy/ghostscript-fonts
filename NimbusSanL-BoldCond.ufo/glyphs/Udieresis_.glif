@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Udieresis" format="1">
+  <advance width="592"/>
+  <unicode hex="00DC"/>
+  <outline>
+    <contour>
+      <point x="534" y="718" type="line"/>
+      <point x="409" y="718" type="line"/>
+      <point x="409" y="245" type="line" smooth="yes"/>
+      <point x="409" y="156"/>
+      <point x="369" y="108"/>
+      <point x="295" y="108" type="curve" smooth="yes"/>
+      <point x="224" y="108"/>
+      <point x="184" y="160"/>
+      <point x="184" y="252" type="curve" smooth="yes"/>
+      <point x="184" y="718" type="line"/>
+      <point x="59" y="718" type="line"/>
+      <point x="59" y="242" type="line" smooth="yes"/>
+      <point x="59" y="76"/>
+      <point x="145" y="-19"/>
+      <point x="295" y="-19" type="curve" smooth="yes"/>
+      <point x="451" y="-19"/>
+      <point x="534" y="75"/>
+      <point x="534" y="251" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="268" y="915" type="line"/>
+      <point x="165" y="915" type="line"/>
+      <point x="165" y="800" type="line"/>
+      <point x="268" y="800" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="915" type="line"/>
+      <point x="325" y="915" type="line"/>
+      <point x="325" y="800" type="line"/>
+      <point x="428" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

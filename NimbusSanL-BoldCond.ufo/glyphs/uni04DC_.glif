@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni04DC" format="1">
+  <advance width="878"/>
+  <outline>
+    <contour>
+      <point x="378" y="718" type="line"/>
+      <point x="378" y="460" type="line"/>
+      <point x="173" y="718" type="line"/>
+      <point x="14" y="718" type="line"/>
+      <point x="292" y="374" type="line"/>
+      <point x="0" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="378" y="284" type="line"/>
+      <point x="378" y="0" type="line"/>
+      <point x="500" y="0" type="line"/>
+      <point x="500" y="284" type="line"/>
+      <point x="720" y="0" type="line"/>
+      <point x="878" y="0" type="line"/>
+      <point x="586" y="374" type="line"/>
+      <point x="864" y="718" type="line"/>
+      <point x="705" y="718" type="line"/>
+      <point x="500" y="460" type="line"/>
+      <point x="500" y="718" type="line"/>
+    </contour>
+    <contour>
+      <point x="410" y="933" type="line"/>
+      <point x="307" y="933" type="line"/>
+      <point x="307" y="818" type="line"/>
+      <point x="410" y="818" type="line"/>
+    </contour>
+    <contour>
+      <point x="570" y="933" type="line"/>
+      <point x="467" y="933" type="line"/>
+      <point x="467" y="818" type="line"/>
+      <point x="570" y="818" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

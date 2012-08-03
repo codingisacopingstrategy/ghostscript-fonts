@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Delta" format="1">
+  <advance width="600"/>
+  <unicode hex="0394"/>
+  <outline>
+    <contour>
+      <point x="15" y="0" type="line"/>
+      <point x="585" y="0" type="line"/>
+      <point x="461" y="583" type="line"/>
+      <point x="386" y="583" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="100" type="line"/>
+      <point x="389" y="421" type="line"/>
+      <point x="457" y="100" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

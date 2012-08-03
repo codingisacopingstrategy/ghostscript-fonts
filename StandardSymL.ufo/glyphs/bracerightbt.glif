@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracerightbt" format="1">
+  <advance width="494"/>
+  <outline>
+    <contour>
+      <point x="201" y="926" type="line"/>
+      <point x="201" y="237" type="line" smooth="yes"/>
+      <point x="201" y="124"/>
+      <point x="186" y="66"/>
+      <point x="145" y="22" type="curve" smooth="yes"/>
+      <point x="112" y="-12"/>
+      <point x="72" y="-34"/>
+      <point x="17" y="-48" type="curve"/>
+      <point x="17" y="-70" type="line"/>
+      <point x="87" y="-58"/>
+      <point x="117" y="-49"/>
+      <point x="154" y="-26" type="curve" smooth="yes"/>
+      <point x="227" y="19"/>
+      <point x="255" y="88"/>
+      <point x="255" y="219" type="curve" smooth="yes"/>
+      <point x="255" y="926" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

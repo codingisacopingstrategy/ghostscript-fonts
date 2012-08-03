@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tbar" format="1">
+  <advance width="420"/>
+  <unicode hex="0166"/>
+  <outline>
+    <contour>
+      <point x="345" y="355" type="line"/>
+      <point x="414" y="355" type="line"/>
+      <point x="432" y="454" type="line"/>
+      <point x="364" y="454" type="line"/>
+      <point x="392" y="607" type="line"/>
+      <point x="531" y="607" type="line"/>
+      <point x="555" y="739" type="line"/>
+      <point x="143" y="739" type="line"/>
+      <point x="119" y="607" type="line"/>
+      <point x="255" y="607" type="line"/>
+      <point x="227" y="454" type="line"/>
+      <point x="152" y="454" type="line"/>
+      <point x="135" y="355" type="line"/>
+      <point x="208" y="355" type="line"/>
+      <point x="142" y="0" type="line"/>
+      <point x="279" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

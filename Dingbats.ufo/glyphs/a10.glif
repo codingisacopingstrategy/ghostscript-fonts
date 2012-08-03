@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a10" format="1">
+  <advance width="692"/>
+  <outline>
+    <contour>
+      <point x="346" y="702" type="line"/>
+      <point x="240" y="520" type="line"/>
+      <point x="35" y="520" type="line"/>
+      <point x="137" y="346" type="line"/>
+      <point x="35" y="169" type="line"/>
+      <point x="240" y="169" type="line"/>
+      <point x="346" y="-14" type="line"/>
+      <point x="451" y="169" type="line"/>
+      <point x="657" y="169" type="line"/>
+      <point x="555" y="346" type="line"/>
+      <point x="657" y="520" type="line"/>
+      <point x="451" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="262" y="487" type="line"/>
+      <point x="430" y="487" type="line"/>
+      <point x="512" y="346" type="line"/>
+      <point x="430" y="202" type="line"/>
+      <point x="262" y="202" type="line"/>
+      <point x="180" y="346" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="630" type="line"/>
+      <point x="408" y="520" type="line"/>
+      <point x="283" y="520" type="line"/>
+    </contour>
+    <contour>
+      <point x="473" y="487" type="line"/>
+      <point x="594" y="487" type="line"/>
+      <point x="534" y="384" type="line"/>
+    </contour>
+    <contour>
+      <point x="534" y="307" type="line"/>
+      <point x="593" y="202" type="line"/>
+      <point x="474" y="202" type="line"/>
+    </contour>
+    <contour>
+      <point x="411" y="169" type="line"/>
+      <point x="346" y="61" type="line"/>
+      <point x="287" y="169" type="line"/>
+    </contour>
+    <contour>
+      <point x="220" y="202" type="line"/>
+      <point x="97" y="202" type="line"/>
+      <point x="158" y="307" type="line"/>
+    </contour>
+    <contour>
+      <point x="158" y="384" type="line"/>
+      <point x="99" y="487" type="line"/>
+      <point x="218" y="487" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

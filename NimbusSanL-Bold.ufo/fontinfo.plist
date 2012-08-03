@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascender</key>
+	<integer>750</integer>
+	<key>capHeight</key>
+	<integer>750</integer>
+	<key>copyright</key>
+	<string>Copyright \050URW\051++,Copyright 1999 by \050URW\051++ Design &amp; Development; Cyrillic glyphs added by Valek Filippov \050C\051 2001-2002</string>
+	<key>descender</key>
+	<integer>-250</integer>
+	<key>familyName</key>
+	<string>Nimbus Sans L</string>
+	<key>italicAngle</key>
+	<integer>0</integer>
+	<key>postscriptBlueScale</key>
+	<real>0.039625</real>
+	<key>postscriptBlueValues</key>
+	<array>
+		<integer>-23</integer>
+		<integer>0</integer>
+		<integer>540</integer>
+		<integer>560</integer>
+		<integer>729</integer>
+		<integer>749</integer>
+		<integer>701</integer>
+		<integer>724</integer>
+	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptFontName</key>
+	<string>NimbusSanL-Bold</string>
+	<key>postscriptForceBold</key>
+	<false/>
+	<key>postscriptFullName</key>
+	<string>Nimbus Sans L Bold</string>
+	<key>postscriptOtherBlues</key>
+	<array>
+	</array>
+	<key>postscriptStemSnapH</key>
+	<array>
+		<integer>118</integer>
+		<integer>127</integer>
+	</array>
+	<key>postscriptStemSnapV</key>
+	<array>
+		<integer>141</integer>
+		<integer>151</integer>
+	</array>
+	<key>postscriptUnderlinePosition</key>
+	<integer>-155</integer>
+	<key>postscriptUnderlineThickness</key>
+	<integer>69</integer>
+	<key>postscriptWeightName</key>
+	<string>Bold</string>
+	<key>unitsPerEm</key>
+	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
+	<key>versionMinor</key>
+	<integer>60</integer>
+	<key>xHeight</key>
+	<integer>500</integer>
+</dict>
+</plist>

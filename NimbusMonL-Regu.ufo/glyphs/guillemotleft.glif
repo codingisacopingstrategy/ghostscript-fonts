@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guillemotleft" format="1">
+  <advance width="600"/>
+  <unicode hex="00AB"/>
+  <outline>
+    <contour>
+      <point x="63" y="251" type="line"/>
+      <point x="271" y="53" type="line" smooth="yes"/>
+      <point x="279" y="46"/>
+      <point x="286" y="42"/>
+      <point x="292" y="42" type="curve" smooth="yes"/>
+      <point x="303" y="42"/>
+      <point x="312" y="51"/>
+      <point x="312" y="62" type="curve" smooth="yes"/>
+      <point x="312" y="69"/>
+      <point x="311" y="72"/>
+      <point x="301" y="83" type="curve" smooth="yes"/>
+      <point x="158" y="251" type="line"/>
+      <point x="301" y="419" type="line" smooth="yes"/>
+      <point x="311" y="430"/>
+      <point x="312" y="432"/>
+      <point x="312" y="439" type="curve" smooth="yes"/>
+      <point x="312" y="450"/>
+      <point x="303" y="459"/>
+      <point x="292" y="459" type="curve" smooth="yes"/>
+      <point x="285" y="459"/>
+      <point x="279" y="456"/>
+      <point x="271" y="448" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="292" y="251" type="line"/>
+      <point x="500" y="53" type="line" smooth="yes"/>
+      <point x="508" y="46"/>
+      <point x="515" y="42"/>
+      <point x="521" y="42" type="curve" smooth="yes"/>
+      <point x="532" y="42"/>
+      <point x="541" y="51"/>
+      <point x="541" y="62" type="curve" smooth="yes"/>
+      <point x="541" y="69"/>
+      <point x="540" y="72"/>
+      <point x="530" y="83" type="curve" smooth="yes"/>
+      <point x="387" y="251" type="line"/>
+      <point x="530" y="419" type="line" smooth="yes"/>
+      <point x="540" y="430"/>
+      <point x="541" y="432"/>
+      <point x="541" y="439" type="curve" smooth="yes"/>
+      <point x="541" y="450"/>
+      <point x="532" y="459"/>
+      <point x="521" y="459" type="curve" smooth="yes"/>
+      <point x="515" y="459"/>
+      <point x="508" y="456"/>
+      <point x="500" y="448" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

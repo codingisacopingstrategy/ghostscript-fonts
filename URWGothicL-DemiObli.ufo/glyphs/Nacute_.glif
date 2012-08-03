@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nacute" format="1">
+  <advance width="740"/>
+  <unicode hex="0143"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="305" y="537" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="804" y="739" type="line"/>
+      <point x="667" y="739" type="line"/>
+      <point x="567" y="201" type="line"/>
+      <point x="361" y="739" type="line"/>
+      <point x="205" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="425" y="792" type="line"/>
+      <point x="668" y="908" type="line"/>
+      <point x="621" y="1007" type="line"/>
+      <point x="385" y="880" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

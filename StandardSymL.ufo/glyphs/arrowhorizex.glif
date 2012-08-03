@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="arrowhorizex" format="1">
+  <advance width="1000"/>
+  <outline>
+    <contour>
+      <point x="-60" y="220" type="line"/>
+      <point x="1050" y="220" type="line"/>
+      <point x="1050" y="276" type="line"/>
+      <point x="-60" y="276" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

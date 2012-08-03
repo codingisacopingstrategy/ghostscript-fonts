@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Tcommaaccent" format="1">
+  <advance width="420"/>
+  <unicode hex="0162"/>
+  <outline>
+    <contour>
+      <point x="144" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="281" y="608" type="line"/>
+      <point x="418" y="608" type="line"/>
+      <point x="418" y="739" type="line"/>
+      <point x="7" y="739" type="line"/>
+      <point x="7" y="608" type="line"/>
+      <point x="144" y="608" type="line"/>
+    </contour>
+    <contour>
+      <point x="106" y="-245" type="line"/>
+      <point x="210" y="-245" type="line"/>
+      <point x="268" y="-53" type="line"/>
+      <point x="164" y="-53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

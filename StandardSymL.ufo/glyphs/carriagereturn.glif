@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="carriagereturn" format="1">
+  <advance width="658"/>
+  <unicode hex="21B5"/>
+  <outline>
+    <contour>
+      <point x="602" y="68" type="line"/>
+      <point x="602" y="629" type="line"/>
+      <point x="547" y="629" type="line"/>
+      <point x="547" y="124" type="line"/>
+      <point x="185" y="124" type="line"/>
+      <point x="185" y="208" type="line"/>
+      <point x="15" y="96" type="line"/>
+      <point x="185" y="-16" type="line"/>
+      <point x="185" y="68" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

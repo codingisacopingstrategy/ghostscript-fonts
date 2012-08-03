@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Ncommaaccent" format="1">
+  <advance width="740"/>
+  <unicode hex="0145"/>
+  <outline>
+    <contour>
+      <point x="68" y="0" type="line"/>
+      <point x="205" y="0" type="line"/>
+      <point x="305" y="537" type="line"/>
+      <point x="514" y="0" type="line"/>
+      <point x="667" y="0" type="line"/>
+      <point x="804" y="739" type="line"/>
+      <point x="667" y="739" type="line"/>
+      <point x="567" y="201" type="line"/>
+      <point x="361" y="739" type="line"/>
+      <point x="205" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="243" y="-245" type="line"/>
+      <point x="347" y="-245" type="line"/>
+      <point x="441" y="-53" type="line"/>
+      <point x="336" y="-53" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

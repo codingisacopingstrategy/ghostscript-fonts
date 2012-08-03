@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="1">
+  <advance width="456"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="175" y="311" type="line"/>
+      <point x="270" y="310"/>
+      <point x="305" y="282"/>
+      <point x="305" y="208" type="curve" smooth="yes"/>
+      <point x="305" y="139"/>
+      <point x="270" y="93"/>
+      <point x="218" y="93" type="curve" smooth="yes"/>
+      <point x="166" y="93"/>
+      <point x="136" y="135"/>
+      <point x="135" y="209" type="curve" smooth="yes"/>
+      <point x="135" y="218" type="line"/>
+      <point x="22" y="218" type="line"/>
+      <point x="25" y="132"/>
+      <point x="38" y="86"/>
+      <point x="72" y="45" type="curve" smooth="yes"/>
+      <point x="106" y="4"/>
+      <point x="160" y="-19"/>
+      <point x="222" y="-19" type="curve" smooth="yes"/>
+      <point x="341" y="-19"/>
+      <point x="423" y="74"/>
+      <point x="423" y="210" type="curve" smooth="yes"/>
+      <point x="423" y="294"/>
+      <point x="393" y="350"/>
+      <point x="334" y="376" type="curve"/>
+      <point x="383" y="407"/>
+      <point x="405" y="450"/>
+      <point x="405" y="516" type="curve" smooth="yes"/>
+      <point x="405" y="633"/>
+      <point x="332" y="710"/>
+      <point x="221" y="710" type="curve" smooth="yes"/>
+      <point x="153" y="710"/>
+      <point x="96" y="679"/>
+      <point x="65" y="625" type="curve" smooth="yes"/>
+      <point x="43" y="586"/>
+      <point x="35" y="551"/>
+      <point x="32" y="482" type="curve"/>
+      <point x="139" y="482" type="line"/>
+      <point x="140" y="560"/>
+      <point x="165" y="598"/>
+      <point x="217" y="598" type="curve" smooth="yes"/>
+      <point x="262" y="598"/>
+      <point x="290" y="562"/>
+      <point x="290" y="504" type="curve" smooth="yes"/>
+      <point x="290" y="441"/>
+      <point x="259" y="411"/>
+      <point x="193" y="411" type="curve" smooth="yes"/>
+      <point x="175" y="411" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

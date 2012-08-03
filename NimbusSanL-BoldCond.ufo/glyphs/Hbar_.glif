@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Hbar" format="1">
+  <advance width="592"/>
+  <unicode hex="0126"/>
+  <outline>
+    <contour>
+      <point x="411" y="323" type="line"/>
+      <point x="411" y="0" type="line"/>
+      <point x="534" y="0" type="line"/>
+      <point x="534" y="718" type="line"/>
+      <point x="411" y="718" type="line"/>
+      <point x="411" y="446" type="line"/>
+      <point x="181" y="446" type="line"/>
+      <point x="181" y="718" type="line"/>
+      <point x="58" y="718" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="181" y="323" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Lcaron" format="1">
+  <advance width="556"/>
+  <unicode hex="013D"/>
+  <outline>
+    <contour>
+      <point x="173" y="729" type="line"/>
+      <point x="80" y="729" type="line"/>
+      <point x="80" y="0" type="line"/>
+      <point x="533" y="0" type="line"/>
+      <point x="533" y="82" type="line"/>
+      <point x="173" y="82" type="line"/>
+    </contour>
+    <contour>
+      <point x="273" y="729" type="line"/>
+      <point x="273" y="629" type="line"/>
+      <point x="328" y="629" type="line"/>
+      <point x="330" y="574"/>
+      <point x="311" y="543"/>
+      <point x="273" y="543" type="curve"/>
+      <point x="273" y="505" type="line"/>
+      <point x="281" y="505" type="line" smooth="yes"/>
+      <point x="335" y="505"/>
+      <point x="373" y="556"/>
+      <point x="373" y="626" type="curve" smooth="yes"/>
+      <point x="373" y="729" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

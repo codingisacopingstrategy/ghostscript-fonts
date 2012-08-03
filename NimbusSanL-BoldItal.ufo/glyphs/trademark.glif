@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="trademark" format="1">
+  <advance width="1000"/>
+  <unicode hex="2122"/>
+  <outline>
+    <contour>
+      <point x="445" y="649" type="line"/>
+      <point x="578" y="649" type="line"/>
+      <point x="595" y="729" type="line"/>
+      <point x="230" y="729" type="line"/>
+      <point x="213" y="649" type="line"/>
+      <point x="350" y="649" type="line"/>
+      <point x="270" y="273" type="line"/>
+      <point x="365" y="273" type="line"/>
+    </contour>
+    <contour>
+      <point x="816" y="273" type="line"/>
+      <point x="973" y="622" type="line"/>
+      <point x="899" y="273" type="line"/>
+      <point x="990" y="273" type="line"/>
+      <point x="1087" y="729" type="line"/>
+      <point x="950" y="729" type="line"/>
+      <point x="792" y="378" type="line"/>
+      <point x="781" y="729" type="line"/>
+      <point x="643" y="729" type="line"/>
+      <point x="546" y="273" type="line"/>
+      <point x="637" y="273" type="line"/>
+      <point x="712" y="622" type="line"/>
+      <point x="722" y="273" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

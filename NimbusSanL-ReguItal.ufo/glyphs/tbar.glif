@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tbar" format="1">
+  <advance width="278"/>
+  <unicode hex="0167"/>
+  <outline>
+    <contour>
+      <point x="151" y="325" type="line"/>
+      <point x="81" y="325" type="line"/>
+      <point x="66" y="256" type="line"/>
+      <point x="136" y="256" type="line"/>
+      <point x="100" y="87" type="line" smooth="yes"/>
+      <point x="98" y="77"/>
+      <point x="97" y="66"/>
+      <point x="97" y="56" type="curve" smooth="yes"/>
+      <point x="97" y="7"/>
+      <point x="131" y="-23"/>
+      <point x="186" y="-23" type="curve" smooth="yes"/>
+      <point x="206" y="-23"/>
+      <point x="237" y="-20"/>
+      <point x="251" y="-16" type="curve"/>
+      <point x="267" y="57" type="line"/>
+      <point x="236" y="50"/>
+      <point x="231" y="49"/>
+      <point x="219" y="49" type="curve" smooth="yes"/>
+      <point x="197" y="49"/>
+      <point x="183" y="60"/>
+      <point x="183" y="76" type="curve" smooth="yes"/>
+      <point x="183" y="79"/>
+      <point x="184" y="84"/>
+      <point x="185" y="90" type="curve" smooth="yes"/>
+      <point x="220" y="256" type="line"/>
+      <point x="315" y="256" type="line"/>
+      <point x="330" y="325" type="line"/>
+      <point x="235" y="325" type="line"/>
+      <point x="263" y="457" type="line"/>
+      <point x="352" y="457" type="line"/>
+      <point x="366" y="524" type="line"/>
+      <point x="277" y="524" type="line"/>
+      <point x="308" y="668" type="line"/>
+      <point x="224" y="668" type="line"/>
+      <point x="193" y="524" type="line"/>
+      <point x="122" y="524" type="line"/>
+      <point x="108" y="457" type="line"/>
+      <point x="179" y="457" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

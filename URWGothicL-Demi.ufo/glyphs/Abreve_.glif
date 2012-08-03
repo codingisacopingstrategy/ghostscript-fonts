@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Abreve" format="1">
+  <advance width="740"/>
+  <unicode hex="0102"/>
+  <outline>
+    <contour>
+      <point x="7" y="0" type="line"/>
+      <point x="158" y="0" type="line"/>
+      <point x="240" y="191" type="line"/>
+      <point x="503" y="191" type="line"/>
+      <point x="582" y="0" type="line"/>
+      <point x="733" y="0" type="line"/>
+      <point x="423" y="739" type="line"/>
+      <point x="315" y="739" type="line"/>
+    </contour>
+    <contour>
+      <point x="290" y="322" type="line"/>
+      <point x="369" y="546" type="line"/>
+      <point x="448" y="322" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="944" type="line"/>
+      <point x="210" y="856"/>
+      <point x="271" y="805"/>
+      <point x="370" y="805" type="curve" smooth="yes"/>
+      <point x="465" y="805"/>
+      <point x="531" y="861"/>
+      <point x="534" y="944" type="curve"/>
+      <point x="432" y="944" type="line"/>
+      <point x="427" y="916"/>
+      <point x="405" y="901"/>
+      <point x="370" y="901" type="curve" smooth="yes"/>
+      <point x="337" y="901"/>
+      <point x="314" y="915"/>
+      <point x="302" y="944" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

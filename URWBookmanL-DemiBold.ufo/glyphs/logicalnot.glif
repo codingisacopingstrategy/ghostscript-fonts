@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot" format="1">
+  <advance width="600"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="51" y="369" type="line"/>
+      <point x="51" y="267" type="line"/>
+      <point x="452" y="267" type="line"/>
+      <point x="452" y="80" type="line"/>
+      <point x="555" y="80" type="line"/>
+      <point x="555" y="369" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

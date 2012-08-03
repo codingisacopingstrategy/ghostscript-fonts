@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="1">
+  <advance width="333"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="76" y="-205" type="line"/>
+      <point x="160" y="-205" type="line"/>
+      <point x="234" y="145" type="line"/>
+      <point x="257" y="356" type="line"/>
+      <point x="217" y="356" type="line"/>
+      <point x="150" y="145" type="line"/>
+    </contour>
+    <contour>
+      <point x="211" y="421" type="line"/>
+      <point x="295" y="421" type="line"/>
+      <point x="317" y="524" type="line"/>
+      <point x="233" y="524" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

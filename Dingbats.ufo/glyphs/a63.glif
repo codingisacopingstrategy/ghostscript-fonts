@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a63" format="1">
+  <advance width="687"/>
+  <outline>
+    <contour>
+      <point x="378" y="344" type="line"/>
+      <point x="518" y="425" type="line"/>
+      <point x="628" y="370" type="line"/>
+      <point x="648" y="396" type="line"/>
+      <point x="551" y="444" type="line"/>
+      <point x="651" y="500" type="line"/>
+      <point x="633" y="532" type="line"/>
+      <point x="534" y="473" type="line"/>
+      <point x="541" y="581" type="line"/>
+      <point x="508" y="577" type="line"/>
+      <point x="501" y="454" type="line"/>
+      <point x="361" y="373" type="line"/>
+      <point x="361" y="535" type="line"/>
+      <point x="464" y="603" type="line"/>
+      <point x="451" y="633" type="line"/>
+      <point x="361" y="574" type="line"/>
+      <point x="363" y="688" type="line"/>
+      <point x="325" y="688" type="line"/>
+      <point x="327" y="574" type="line"/>
+      <point x="237" y="633" type="line"/>
+      <point x="224" y="603" type="line"/>
+      <point x="327" y="535" type="line"/>
+      <point x="327" y="373" type="line"/>
+      <point x="187" y="454" type="line"/>
+      <point x="180" y="577" type="line"/>
+      <point x="147" y="581" type="line"/>
+      <point x="154" y="473" type="line"/>
+      <point x="55" y="532" type="line"/>
+      <point x="36" y="500" type="line"/>
+      <point x="137" y="444" type="line"/>
+      <point x="40" y="396" type="line"/>
+      <point x="60" y="370" type="line"/>
+      <point x="170" y="425" type="line"/>
+      <point x="310" y="344" type="line"/>
+      <point x="170" y="263" type="line"/>
+      <point x="60" y="318" type="line"/>
+      <point x="40" y="292" type="line"/>
+      <point x="137" y="244" type="line"/>
+      <point x="36" y="188" type="line"/>
+      <point x="55" y="156" type="line"/>
+      <point x="154" y="214" type="line"/>
+      <point x="147" y="107" type="line"/>
+      <point x="180" y="111" type="line"/>
+      <point x="187" y="234" type="line"/>
+      <point x="327" y="315" type="line"/>
+      <point x="327" y="153" type="line"/>
+      <point x="224" y="85" type="line"/>
+      <point x="237" y="55" type="line"/>
+      <point x="327" y="114" type="line"/>
+      <point x="325" y="0" type="line"/>
+      <point x="363" y="0" type="line"/>
+      <point x="361" y="114" type="line"/>
+      <point x="451" y="55" type="line"/>
+      <point x="464" y="85" type="line"/>
+      <point x="361" y="153" type="line"/>
+      <point x="361" y="315" type="line"/>
+      <point x="501" y="234" type="line"/>
+      <point x="508" y="111" type="line"/>
+      <point x="541" y="107" type="line"/>
+      <point x="534" y="214" type="line"/>
+      <point x="633" y="156" type="line"/>
+      <point x="651" y="188" type="line"/>
+      <point x="551" y="244" type="line"/>
+      <point x="648" y="292" type="line"/>
+      <point x="628" y="318" type="line"/>
+      <point x="518" y="263" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

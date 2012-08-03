@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Yacute" format="1">
+  <advance width="666"/>
+  <unicode hex="00DD"/>
+  <outline>
+    <contour>
+      <point x="387" y="286" type="line"/>
+      <point x="661" y="729" type="line"/>
+      <point x="550" y="729" type="line"/>
+      <point x="342" y="374" type="line"/>
+      <point x="128" y="729" type="line"/>
+      <point x="13" y="729" type="line"/>
+      <point x="294" y="286" type="line"/>
+      <point x="294" y="0" type="line"/>
+      <point x="387" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="939" type="line"/>
+      <point x="269" y="791" type="line"/>
+      <point x="329" y="791" type="line"/>
+      <point x="478" y="939" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

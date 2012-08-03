@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lcommaaccent" format="1">
+  <advance width="182"/>
+  <unicode hex="013C"/>
+  <outline>
+    <contour>
+      <point x="127" y="718" type="line"/>
+      <point x="55" y="718" type="line"/>
+      <point x="55" y="0" type="line"/>
+      <point x="127" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="-60" type="line"/>
+      <point x="50" y="-157" type="line"/>
+      <point x="96" y="-157" type="line"/>
+      <point x="98" y="-217"/>
+      <point x="82" y="-248"/>
+      <point x="51" y="-246" type="curve"/>
+      <point x="51" y="-282" type="line"/>
+      <point x="106" y="-282"/>
+      <point x="133" y="-239"/>
+      <point x="133" y="-153" type="curve" smooth="yes"/>
+      <point x="133" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

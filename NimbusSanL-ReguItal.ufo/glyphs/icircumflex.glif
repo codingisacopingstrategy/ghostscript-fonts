@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="icircumflex" format="1">
+  <advance width="278"/>
+  <unicode hex="00EE"/>
+  <outline>
+    <contour>
+      <point x="290" y="527" type="line"/>
+      <point x="206" y="527" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="178" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="247" y="741" type="line"/>
+      <point x="119" y="591" type="line"/>
+      <point x="183" y="591" type="line"/>
+      <point x="287" y="690" type="line"/>
+      <point x="343" y="591" type="line"/>
+      <point x="406" y="591" type="line"/>
+      <point x="342" y="741" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

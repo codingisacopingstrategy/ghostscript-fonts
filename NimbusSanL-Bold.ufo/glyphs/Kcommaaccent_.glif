@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Kcommaaccent" format="1">
+  <advance width="722"/>
+  <unicode hex="0136"/>
+  <outline>
+    <contour>
+      <point x="224" y="244" type="line"/>
+      <point x="299" y="322" type="line"/>
+      <point x="538" y="0" type="line"/>
+      <point x="717" y="0" type="line"/>
+      <point x="395" y="415" type="line"/>
+      <point x="686" y="729" type="line"/>
+      <point x="509" y="729" type="line"/>
+      <point x="224" y="409" type="line"/>
+      <point x="224" y="729" type="line"/>
+      <point x="74" y="729" type="line"/>
+      <point x="74" y="0" type="line"/>
+      <point x="224" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="315" y="-60" type="line"/>
+      <point x="315" y="-172" type="line"/>
+      <point x="382" y="-172" type="line"/>
+      <point x="383" y="-222"/>
+      <point x="361" y="-252"/>
+      <point x="315" y="-261" type="curve"/>
+      <point x="315" y="-307" type="line"/>
+      <point x="386" y="-305"/>
+      <point x="437" y="-245"/>
+      <point x="437" y="-163" type="curve" smooth="yes"/>
+      <point x="437" y="-60" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

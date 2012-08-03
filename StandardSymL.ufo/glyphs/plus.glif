@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus" format="1">
+  <advance width="549"/>
+  <unicode hex="002B"/>
+  <outline>
+    <contour>
+      <point x="302" y="533" type="line"/>
+      <point x="247" y="533" type="line"/>
+      <point x="247" y="294" type="line"/>
+      <point x="10" y="294" type="line"/>
+      <point x="10" y="239" type="line"/>
+      <point x="247" y="239" type="line"/>
+      <point x="247" y="0" type="line"/>
+      <point x="302" y="0" type="line"/>
+      <point x="302" y="239" type="line"/>
+      <point x="539" y="239" type="line"/>
+      <point x="539" y="294" type="line"/>
+      <point x="302" y="294" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

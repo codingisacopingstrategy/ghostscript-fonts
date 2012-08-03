@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresis" format="1">
+  <advance width="228"/>
+  <unicode hex="00CF"/>
+  <outline>
+    <contour>
+      <point x="155" y="718" type="line"/>
+      <point x="75" y="718" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="155" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="86" y="901" type="line"/>
+      <point x="11" y="901" type="line"/>
+      <point x="11" y="799" type="line"/>
+      <point x="86" y="799" type="line"/>
+    </contour>
+    <contour>
+      <point x="218" y="901" type="line"/>
+      <point x="143" y="901" type="line"/>
+      <point x="143" y="799" type="line"/>
+      <point x="218" y="799" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

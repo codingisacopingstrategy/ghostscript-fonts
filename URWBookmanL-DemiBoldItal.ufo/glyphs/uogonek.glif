@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uogonek" format="1">
+  <advance width="680"/>
+  <unicode hex="0173"/>
+  <outline>
+    <contour>
+      <point x="508" y="511" type="line"/>
+      <point x="441" y="142" type="line"/>
+      <point x="409" y="116"/>
+      <point x="376" y="103"/>
+      <point x="343" y="103" type="curve" smooth="yes"/>
+      <point x="308" y="103"/>
+      <point x="281" y="124"/>
+      <point x="281" y="151" type="curve" smooth="yes"/>
+      <point x="281" y="160"/>
+      <point x="281" y="162"/>
+      <point x="287" y="205" type="curve" smooth="yes"/>
+      <point x="342" y="511" type="line"/>
+      <point x="290" y="511" type="line"/>
+      <point x="214" y="487"/>
+      <point x="173" y="480"/>
+      <point x="98" y="476" type="curve"/>
+      <point x="83" y="394" type="line"/>
+      <point x="95" y="394" type="line" smooth="yes"/>
+      <point x="112" y="394"/>
+      <point x="139" y="385"/>
+      <point x="148" y="378" type="curve"/>
+      <point x="152" y="374"/>
+      <point x="154" y="367"/>
+      <point x="154" y="358" type="curve" smooth="yes"/>
+      <point x="154" y="351"/>
+      <point x="152" y="334"/>
+      <point x="150" y="321" type="curve" smooth="yes"/>
+      <point x="117" y="142" type="line" smooth="yes"/>
+      <point x="115" y="132"/>
+      <point x="113" y="107"/>
+      <point x="113" y="97" type="curve" smooth="yes"/>
+      <point x="113" y="35"/>
+      <point x="174" y="-9"/>
+      <point x="260" y="-9" type="curve" smooth="yes"/>
+      <point x="320" y="-9"/>
+      <point x="367" y="8"/>
+      <point x="443" y="57" type="curve"/>
+      <point x="461" y="12"/>
+      <point x="499" y="-9"/>
+      <point x="562" y="-9" type="curve" smooth="yes"/>
+      <point x="571" y="-9"/>
+      <point x="578" y="-8"/>
+      <point x="592" y="-7" type="curve"/>
+      <point x="532" y="-40"/>
+      <point x="515" y="-61"/>
+      <point x="515" y="-101" type="curve" smooth="yes"/>
+      <point x="515" y="-148"/>
+      <point x="553" y="-179"/>
+      <point x="611" y="-179" type="curve" smooth="yes"/>
+      <point x="637" y="-179"/>
+      <point x="660" y="-174"/>
+      <point x="686" y="-161" type="curve"/>
+      <point x="700" y="-100" type="line"/>
+      <point x="680" y="-106"/>
+      <point x="669" y="-109"/>
+      <point x="657" y="-109" type="curve" smooth="yes"/>
+      <point x="628" y="-109"/>
+      <point x="608" y="-93"/>
+      <point x="608" y="-70" type="curve" smooth="yes"/>
+      <point x="608" y="-55"/>
+      <point x="612" y="-47"/>
+      <point x="629" y="-27" type="curve" smooth="yes"/>
+      <point x="662" y="12"/>
+      <point x="668" y="18"/>
+      <point x="686" y="34" type="curve" smooth="yes"/>
+      <point x="701" y="47"/>
+      <point x="711" y="55"/>
+      <point x="714" y="57" type="curve"/>
+      <point x="714" y="58"/>
+      <point x="717" y="61"/>
+      <point x="720" y="64" type="curve"/>
+      <point x="681" y="122" type="line"/>
+      <point x="658" y="104"/>
+      <point x="649" y="99"/>
+      <point x="636" y="99" type="curve" smooth="yes"/>
+      <point x="617" y="99"/>
+      <point x="601" y="117"/>
+      <point x="601" y="139" type="curve" smooth="yes"/>
+      <point x="601" y="151"/>
+      <point x="602" y="159"/>
+      <point x="609" y="195" type="curve" smooth="yes"/>
+      <point x="666" y="511" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

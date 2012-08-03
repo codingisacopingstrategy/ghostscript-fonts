@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketrighttp" format="1">
+  <advance width="384"/>
+  <outline>
+    <contour>
+      <point x="360" y="-80" type="line"/>
+      <point x="360" y="926" type="line"/>
+      <point x="22" y="926" type="line"/>
+      <point x="22" y="871" type="line"/>
+      <point x="305" y="871" type="line"/>
+      <point x="305" y="-80" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

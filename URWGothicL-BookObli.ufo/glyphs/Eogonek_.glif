@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="536"/>
+  <unicode hex="0118"/>
+  <outline>
+    <contour>
+      <point x="213" y="739" type="line"/>
+      <point x="76" y="0" type="line"/>
+      <point x="428" y="0" type="line"/>
+      <point x="366" y="-32"/>
+      <point x="334" y="-70"/>
+      <point x="334" y="-112" type="curve" smooth="yes"/>
+      <point x="334" y="-159"/>
+      <point x="373" y="-195"/>
+      <point x="424" y="-195" type="curve" smooth="yes"/>
+      <point x="442" y="-195"/>
+      <point x="456" y="-191"/>
+      <point x="476" y="-182" type="curve"/>
+      <point x="484" y="-137" type="line"/>
+      <point x="471" y="-144"/>
+      <point x="454" y="-148"/>
+      <point x="436" y="-148" type="curve" smooth="yes"/>
+      <point x="405" y="-148"/>
+      <point x="385" y="-132"/>
+      <point x="385" y="-108" type="curve" smooth="yes"/>
+      <point x="385" y="-76"/>
+      <point x="422" y="-34"/>
+      <point x="480" y="0" type="curve"/>
+      <point x="492" y="67" type="line"/>
+      <point x="162" y="67" type="line"/>
+      <point x="213" y="340" type="line"/>
+      <point x="532" y="340" type="line"/>
+      <point x="544" y="407" type="line"/>
+      <point x="225" y="407" type="line"/>
+      <point x="275" y="672" type="line"/>
+      <point x="605" y="672" type="line"/>
+      <point x="617" y="739" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
